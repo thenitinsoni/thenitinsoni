@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenitinsoni&label=Profile%20views&color=0e75b6&style=flat" alt="thenitinsoni" /> </p>
 
-- 🌱 I’m currently learning **video editing, web development, coding**
+- 🌱 I’m currently learning **video editing, web development, coding and more.**
 
 - 👨‍💻 All of my projects are available at [nitinsoni.me](nitinsoni.me)
 
