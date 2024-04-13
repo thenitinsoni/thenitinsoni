@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center"> <img src="[https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)](https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=A%20newbie%20in%20tech+%3A))" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=A%20newbie%20in%20tech+%3A)" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenitinsoni&label=Profile%20views&color=0e75b6&style=flat" alt="thenitinsoni" /> </p>
 
