@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nitinsoni3375@gmail.com**
 
-- 📄 Know about my experiences [nitinsoni.me/resume.html](nitinsoni.me/resume.html)
+- 📄 Know about my experiences [nitinsoni.me/resume.html](www.nitinsoni.me/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
