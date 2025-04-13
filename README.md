@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **video editing, web development, coding and more.**
 
-- 👨‍💻 All of my projects are available at http://www.nitinsoni.netlify.app
+- 👨‍💻 All of my projects are available at https://nitinsoni.netlify.app
 
 - 📫 How to reach me **nitinsoni3375@gmail.com**
 
